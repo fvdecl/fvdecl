@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvdecl)
+![Languages Metrics](https://github.com/fvdecl/fvdecl/blob/main/github-metrics.svg)
